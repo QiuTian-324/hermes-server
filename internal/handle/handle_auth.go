@@ -278,6 +278,8 @@ func (*UserAuth) SendCode(c *gin.Context) {
 	//dir, _ := os.Getwd()
 	//dir = dir + "\\templates\\email.html"
 	temp, err := template.ParseFiles("D:\\AkitaCode\\cloneProject\\gin-vue-blog\\gin-blog-server\\templates\\email.html")
+	//temp, err := template.ParseFiles("./templates/email.html")
+
 	if err != nil {
 		ReturnError(c, g.ErrMailSend, err)
 		return
