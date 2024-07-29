@@ -161,26 +161,5 @@ AkitaPlanet-admin / AkitaPlanet-front 通用目录结构
 ├── .stylelintrc     -- stylelint 配置
 ├── README.md
 
-
 ```
 
-
-## 📸 项目截图：
-### 前台(PC端)
-![前台首页](./assets/images/HomePage.jpg)
-
-![文章详情页](./assets/images/ArticleDetails.jpg)
-
-![归档页](./assets/images/Archiving.jpg)
-
-![友链](./assets/images/FriendChain.jpg)
-
-### 后台(PC端)
-![后台登录页](./assets/images/adminLogin.png)
-![后台首页](./assets/images/adminHome.png)
-![后台文章页](./assets/images/adminArticle.png)
-![后台日志页](./assets/images/adminLog.png)
-![后台评论页](./assets/images/adminComment.png)
-### 移动端
-| ![移动端首页](./assets/images/mobileHome.jpg) | ![移动端文章详情](./assets/images/mobileArticleDetail.jpg) |
-|------------------------------------------|-----------------------------------------------------|
